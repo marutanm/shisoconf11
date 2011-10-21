@@ -21,3 +21,14 @@
 * 100,000 messages/day
 
 from [Pusher](http://pusher.com/pricing)
+
+!SLIDE bullets
+# Appendix
+## Source codes
+* [HTML etc.](https://github.com/Shisobu/shisoconf11)
+* [Streaming and Puhser](https://github.com/marutanm/twitter-stream-pusher)
+
+## Using
+[Heroku](http://www.heroku.com/),
+[Pusher](http://pusher.com/)
+and [Twitter Streaming API](https://dev.twitter.com/docs/streaming-api/methods)
